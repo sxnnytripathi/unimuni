@@ -67,7 +67,7 @@ color : #3953e9;
 
 .para-head {
 font-family: 'Roboto', sans-serif;
-text-align: left;
+text-align: justified;
 }
 
 .mid-div {
@@ -91,7 +91,7 @@ color : #3953e9;
 text-align: center;
 }
 
-p {
+.p1 {
 font-family: 'Roboto', sans-serif;
 text-align : center;
 }
