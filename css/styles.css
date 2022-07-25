@@ -1,24 +1,18 @@
 .navbar-brand {
-	margin-left : 25px;
+margin-left : 25px;
 }
-
-
 
 .lcont {
 margin-right : 15px;
 }
 
-
 .top-div {
 padding-top : 50px;
 width : 85%;
 margin : auto;
-
 }
 
-
 .div1 {
-
 margin : auto;
 }
 
@@ -29,24 +23,21 @@ float : left;
 margin-right : 40px;
 }
 
-.text-head {
+h1 {
+font-size: 50px;
 font-family: 'Montserrat', sans-serif;
 text-align: left;
 color: #3953e9;
 }
 
-
 .btn1 {
-
             padding: 10px 16px;
             border-radius: 35px;
             font-size: 22px;
             text-align: center;
 	    background-color : #ECECEC;
 	    margin-left : 20px;
-        }
-
-
+}
 
 .btn2 {
             padding: 10px 16px;
@@ -55,9 +46,7 @@ color: #3953e9;
             text-align: center;
 	    background-color : #ECECEC;
 	    margin-left : 20px;
-        }
-
-
+}
 
 span {
 color : #3953e9;
@@ -71,10 +60,6 @@ text-align: justified;
 .mid-div {
 padding-top : 25px;
 background-color : #EFEFEF ;
-}
-
-.last-div {
-
 }
 
 .footer {
@@ -107,7 +92,7 @@ text-align: center;
             font-size: 22px;
             text-align: center;
 	    background-color : white;
-        }
+}
 
 .foot-img {
 height : 30px;
